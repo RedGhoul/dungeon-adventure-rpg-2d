@@ -7,6 +7,7 @@ Welcome to the repository for my 2D procedurally generated RPG game developed in
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
+- [Documentation](#documentation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -47,6 +48,40 @@ Here are some screenshots of the game:
 - **Graph Theory**: Pathfinding algorithms
 - **Dynamic Programming**: Optimization techniques for game logic
 - **Design Patterns**: Ensuring clean and maintainable code
+
+## Documentation
+
+Comprehensive documentation is available to help you understand and modify the codebase:
+
+### 📚 [ARCHITECTURE.md](ARCHITECTURE.md)
+Detailed technical documentation covering:
+- Complete code flow and execution paths
+- System architecture and design patterns
+- Core game systems (Player, Enemy, Generation, Pathfinding, UI)
+- Component communication and data flow
+- Performance considerations
+- Perfect for understanding how everything works together
+
+### 🚀 [QUICKSTART.md](QUICKSTART.md)
+Developer onboarding guide featuring:
+- Step-by-step setup instructions
+- Project structure walkthrough
+- Your first code changes (with examples)
+- Development workflow and best practices
+- Common tasks and troubleshooting
+- Ideal for new developers joining the project
+
+### 🛠️ [MODDING_GUIDE.md](MODDING_GUIDE.md)
+Step-by-step modification tutorials including:
+- Player system modifications (dash ability, stamina, weapon switching)
+- Enemy system enhancements (ranged enemies, boss phases)
+- Procedural generation customization (room types, decorations)
+- Combat system improvements (knockback, critical hits)
+- UI additions (minimap, damage numbers)
+- Item system expansion (weapon pickups)
+- Complete with code examples and implementation details
+
+**Start here:** New to the project? Begin with [QUICKSTART.md](QUICKSTART.md), then explore [ARCHITECTURE.md](ARCHITECTURE.md) to understand the systems, and finally use [MODDING_GUIDE.md](MODDING_GUIDE.md) to make your own modifications!
 
 ## Installation
 To run this project locally, follow these steps:
